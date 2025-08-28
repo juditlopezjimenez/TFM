@@ -1,4 +1,4 @@
-# Análisis técnico de infraestructuras .onion vinculadas a RaaS y APTs
+# Análisis técnico de infraestructuras .onion vinculadas a RaaS y APTs en la Dark Web
 
 Este repositorio contiene los **scripts desarrollados en el Trabajo de Fin de Máster (TFM)** de Judit López Jiménez, centrado en el análisis de dominios `.onion` relacionados con campañas de **ransomware** y **Ransomware-as-a-Service (RaaS)** en la Dark Web.
 
